@@ -1,6 +1,11 @@
 # Index Heading
 Example summary.
 
+## Todoloo
+
+- [x] To Be
+- [ ] Not To Do
+
 ## Code example
 
 ```css
@@ -8,7 +13,6 @@ body {
   height: 184cm;
 }
 ```
-
 
 ## Sub-heading
 
